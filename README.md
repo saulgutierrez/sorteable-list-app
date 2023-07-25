@@ -9,3 +9,5 @@ Technologies used:
 <li>HTML</li>
 <li>CSS</li>
 <li>Vanilla JS</li>
+<li>FontAwesome</li>
+<li>Google Fonts</li>

@@ -11,3 +11,6 @@ Technologies used:
 <li>Vanilla JS</li>
 <li>FontAwesome</li>
 <li>Google Fonts</li>
+
+![image](https://github.com/saulgutierrez/sorteable-list-app/assets/62368834/34511d62-7086-4353-a739-4c5a91e628d4)
+
